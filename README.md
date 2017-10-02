@@ -6,7 +6,7 @@ Ubiquiti AirControl 2 in a Docker container.
 To use AirControl from Docker Hub, you juste have to run:
 
 ~~~bash
-docker run -d --name aircontrol -p 9081:9081 mool/aircontrol
+docker run -d --name aircontrol2 -p 9081:9081 Andreser/docker-aircontrol2
 ~~~
 
 ## First use
